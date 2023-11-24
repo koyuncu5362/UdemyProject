@@ -16,9 +16,16 @@ namespace Core.Utilities.Results
         {
             Message = message;
         }
-        
+        public Result(bool success, string message,string logMessage) : this(success)
+        {
+            Message = message;
+            LogMessage = logMessage;
+        }
+
+
         public bool Success { get; }
 
         public string Message { get; }
+        public string LogMessage { get;  }
     }
 }

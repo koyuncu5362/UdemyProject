@@ -28,7 +28,7 @@ namespace Business.Concretes
         public IResult Add(Course course)
         {
             _courseDal.Add(course);
-            return new SuccessResult("Allah razı olsun");
+            return new SuccessResult("Allah razı olsun","Allahım");
         }
 
         public IResult Delete(Course course)
