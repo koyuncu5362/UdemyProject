@@ -1,0 +1,13 @@
+2023-11-24 16:21:18.580 +03:00 [DBG] ->Operation : Add ->Type of: Category ->Details: Id 0 Name string Courses   ->Date: 24.11.2023 ->Hour: 16 ->Minute: 21
+2023-11-24 16:23:30.103 +03:00 [DBG] ->Operation : Add ->Type of: Category ->Details: Id 0 Name string Courses   ->Date: 24.11.2023 ->Hour: 16 ->Minute: 23
+2023-11-24 16:24:56.971 +03:00 [DBG] ->Operation : Add ->Type of: Category ->Details: Id 0 Name string Courses   ->Date: 24.11.2023 ->Hour: 16 ->Minute: 24
+
+
+
+
+
+
+2023-11-24 16:58:11.259 +03:00 [DBG] ->Operation : Add ->Type of: Entities.Concretes.Course ->Details: Core.Utilities.Results.SuccessResult ->Date: 24.11.2023 ->Hour: 16 ->Minute: 58
+2023-11-24 17:06:40.062 +03:00 [DBG] ->Operation : Add ->Type of: Entities.Concretes.Course ->Details: Core.Utilities.Results.SuccessResult ->Date: 24.11.2023 ->Hour: 17 ->Minute: 6
+2023-11-24 17:39:33.947 +03:00 [DBG] ->Operation : Add ->Type of: Entities.Concretes.Course ->Details: Added
+2023-11-24 17:41:14.236 +03:00 [DBG] ->Operation : Add ->Type of: Entities.Concretes.Course ->Details: Allah razı olsun
